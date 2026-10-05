@@ -1,1 +1,1 @@
-# git-padikkam
+# git-practies
