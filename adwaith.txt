@@ -1,1 +1,17 @@
 hai iam adwaith 
+git init
+git add .
+git commit -m "msg"
+git status
+git log
+git log --oneline
+git switch -c <branch_name> : create a and switch to new branch
+git branch
+git branch <branch_name>
+git switch <branch_name>
+git restore --staged <file_name> : move changes from staging area to working directory
+Make a remote repo(Git Hub)
+git clone <remote_repo_url>
+Start working in local machine
+	create a new branch - make changes-add-commit
+	git push origin <branch_name>
